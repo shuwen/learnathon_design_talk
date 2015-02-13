@@ -1,28 +1,36 @@
-* { margin: 0; padding: 0; }
+/* line 1, ../sass/style.scss */
+* {
+  margin: 0;
+  padding: 0;
+}
 
+/* line 3, ../sass/style.scss */
 body {
-	font-size: 20px;
+  font-size: 20px;
 }
 
+/* line 7, ../sass/style.scss */
 .container {
-	max-width: 640px;
-	margin: auto;
-	width: 640px;
+  max-width: 640px;
+  margin: auto;
+  width: 640px;
 }
 
+/* line 13, ../sass/style.scss */
 h2 {
-	font-size: 1.5em;
-	font-family: 'Avenir Next', sans-serif;
-	line-height: 1em;
-	margin: 1em 0;
-	text-align: center;
+  font-size: 1.5em;
+  font-family: 'Avenir Next', sans-serif;
+  line-height: 1em;
+  margin: 1em 0;
+  text-align: center;
 }
 
+/* line 21, ../sass/style.scss */
 p {
-	color: #333;
-	font-family: serif;
-	line-height: 1.5em;
-	margin-bottom: 1.5em;
-	text-align: justify;
-	text-indent: 3em;
+  color: #333;
+  font-family: serif;
+  line-height: 1.5em;
+  margin-bottom: 1.5em;
+  text-align: justify;
+  text-indent: 3em;
 }

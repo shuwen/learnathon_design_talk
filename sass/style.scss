@@ -1,0 +1,28 @@
+* { margin: 0; padding: 0; }
+
+body {
+	font-size: 20px;
+}
+
+.container {
+	max-width: 640px;
+	margin: auto;
+	width: 640px;
+}
+
+h2 {
+	font-size: 1.5em;
+	font-family: 'Avenir Next', sans-serif;
+	line-height: 1em;
+	margin: 1em 0;
+	text-align: center;
+}
+
+p {
+	color: #333;
+	font-family: serif;
+	line-height: 1.5em;
+	margin-bottom: 1.5em;
+	text-align: justify;
+	text-indent: 3em;
+}

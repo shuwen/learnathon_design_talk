@@ -1,0 +1,43 @@
+/*
+	Column: 4em;
+	Gutter: 2em;
+*/
+
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	/*font-size: 20px;*/
+}
+
+.container {
+	height: auto;
+	margin: auto;
+	overflow: hidden;
+	width: 70em;
+}
+
+header, footer {
+	clear: both;
+	text-align: center;
+	width: 100%;
+}
+
+main {
+	float: left;
+	margin-right: 2em;
+	width: 46em;
+}
+
+main ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+aside {
+	float: left;
+	width: 22em;
+}

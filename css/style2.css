@@ -2,42 +2,48 @@
 	Column: 4em;
 	Gutter: 2em;
 */
-
+/* line 6, ../sass/style2.scss */
 * {
-	margin: 0;
-	padding: 0;
+  margin: 0;
+  padding: 0;
 }
 
+/* line 11, ../sass/style2.scss */
 body {
-	/*font-size: 20px;*/
+  /*font-size: 20px;*/
 }
 
+/* line 15, ../sass/style2.scss */
 .container {
-	height: auto;
-	margin: auto;
-	overflow: hidden;
-	width: 70em;
+  height: auto;
+  margin: auto;
+  overflow: hidden;
+  width: 70em;
 }
 
+/* line 22, ../sass/style2.scss */
 header, footer {
-	clear: both;
-	text-align: center;
-	width: 100%;
+  clear: both;
+  text-align: center;
+  width: 100%;
 }
 
+/* line 28, ../sass/style2.scss */
 main {
-	float: left;
-	margin-right: 2em;
-	width: 46em;
+  float: left;
+  margin-right: 2em;
+  width: 46em;
 }
 
+/* line 34, ../sass/style2.scss */
 main ul {
-	list-style-type: none;
-	margin: 0;
-	padding: 0;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
+/* line 40, ../sass/style2.scss */
 aside {
-	float: left;
-	width: 22em;
+  float: left;
+  width: 22em;
 }
